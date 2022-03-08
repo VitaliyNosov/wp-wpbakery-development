@@ -1,4 +1,6 @@
-<img style="width: 140px; margin: 0 auto; display: block;" src="https://i.ibb.co/MgLwYwP/Wordpress-logo-8-1.png">
+<div style="margin: 0 auto; width: 140px;">
+    <img style="width: 140px;" src="https://i.ibb.co/MgLwYwP/Wordpress-logo-8-1.png">
+</div>
  
 # WPBakery development chortcode
 
