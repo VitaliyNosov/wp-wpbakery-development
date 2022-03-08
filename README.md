@@ -11,7 +11,7 @@ A brief description of the steps to develop your own shortcodes - templates on W
 * You must have a plugin, it is in the archive. Install it on your site.
 * In the theme folder of the site, create a folder     called: vc_templates.
 * Create a file named: vc.php
-* Connect file to file: function.php
+* Connect file to file: functions.php
 
 ```php 
 
