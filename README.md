@@ -65,7 +65,7 @@ if(function_exists('vc_map')) {
 
 * The array has a name: base These are the names of the template from which we will receive data from the admin panel. 
 
-* Template example: 
+* Template example: olins_hello_world.php
 
 ```php 
 
