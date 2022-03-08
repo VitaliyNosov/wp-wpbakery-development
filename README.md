@@ -1,3 +1,8 @@
+
+<div style="width: 140px; margin: 0 auto;">
+  <img src="https://i.ibb.co/MgLwYwP/Wordpress-logo-8-1.png">
+</div>
+
 # WPBakery development chortcode
 
 <img src="https://i.ibb.co/5WYRdRg/WPBakary-baner.png">
