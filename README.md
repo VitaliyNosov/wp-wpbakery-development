@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="140" height="140"  src="https://i.ibb.co/MgLwYwP/Wordpress-logo-8-1.png">
+    <img width="180" height="180"  src="https://i.ibb.co/MgLwYwP/Wordpress-logo-8-1.png">
 </p>
  
 # WPBakery development chortcode
